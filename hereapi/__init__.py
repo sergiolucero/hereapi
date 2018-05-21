@@ -31,5 +31,5 @@ def isoplot(home, locations, color, outputfile):
 	else:	# a list coming from above (or elsewhere), color is also a list
 		for loc,col in zip(locations,color):
 			folium.PolyLine(locations=loc,color=col).add_to(fm)
-	fm.save(outputfile)
+	fm.save(outputfile)s
 	print('map saved to %s' %outputfile)
