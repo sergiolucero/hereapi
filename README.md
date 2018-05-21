@@ -16,3 +16,9 @@ To be fair, the picture above shows 3 concentric isolines (1, 5 and 10 minute dr
 # to be added
 * [Truck Routes](https://developer.here.com/documentation/routing/topics/request-a-truck-route.html)
 * [Bicycle Routes](https://developer.here.com/documentation/routing/topics/request-a-bicycle-route.html)
+* [Map Tiles](https://developer.here.com/documentation/map-tile/topics/quick-start.html)
+* [Default Location](https://developer.here.com/documentation/map-image/topics/quick-start-show-default-location.html)
+* [Venue Maps](https://developer.here.com/documentation/venue-maps/topics/quick-start.html)
+* [GeoCoder](https://developer.here.com/documentation/geocoder/topics/quick-start.html)
+* [Weather](https://developer.here.com/documentation/weather/topics/user-guide.html)
+* [Transit](https://developer.here.com/documentation/transit/topics/quick-start.html)
