@@ -1,5 +1,6 @@
 # hereapi
-python interface to the here.com [REST APIs](https://developer.here.com/develop/rest-apis)
+python interface to the here.com [REST APIs](https://developer.here.com/develop/rest-apis). 
+You must create a developer account at here.com above and set up environment variables HERE_ID and HERE_CODE.
 
 # Example
 ```
