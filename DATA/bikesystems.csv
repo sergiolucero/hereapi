@@ -1,0 +1,563 @@
+city,country,href,id,latitude,longitude,nStations,slots,bikes,fecha
+Bielsko-Biała,PL,/v2/networks/bbbike,bbbike,49.8225,19.044444,12,144,0,Sun Jun  3 18:03:56 2018
+Melbourne,AU,/v2/networks/melbourne-bike-share,melbourne-bike-share,-37.814107,144.96328,50,441,444,Sun Jun  3 18:03:56 2018
+"Aspen, CO",US,/v2/networks/we-cycle,we-cycle,39.194951,-106.837002,50,249,170,Sun Jun  3 18:03:56 2018
+Wien,AT,/v2/networks/citybike-wien,citybike-wien,48.2081743,16.3738189,121,1732,1310,Sun Jun  3 18:03:56 2018
+"Miami Beach, FL",US,/v2/networks/decobike-miami-beach,decobike-miami-beach,25.790654,-80.1300455,124,1064,844,Sun Jun  3 18:03:56 2018
+Copenhagen,DK,/v2/networks/bycyklen,bycyklen,55.673582,12.564983999999999,111,0,469,Sun Jun  3 18:03:56 2018
+Vilagarcía de Arousa,ES,/v2/networks/vaibike,vaibike,42.5999265,-8.7885744,5,43,17,Sun Jun  3 18:03:56 2018
+A Coruña,ES,/v2/networks/bicicorunha,bicicorunha,43.3623,-8.4115,23,187,169,Sun Jun  3 18:03:56 2018
+Sorocaba,BR,/v2/networks/integrabike,integrabike,-23.5015,-47.4526,25,236,71,Sun Jun  3 18:03:56 2018
+Ipaússu,BR,/v2/networks/dukebike,dukebike,-23.0553,-49.6237,1,10,0,Sun Jun  3 18:03:56 2018
+Athens,GR,/v2/networks/athens-bikes,athens-bikes,37.9838,23.7275,1,0,5,Sun Jun  3 18:03:56 2018
+"Tel Aviv-Yaffo, Giv'atayim, Ramat-Gan",IL,/v2/networks/telofun,telofun,32.087053,34.789776,212,2460,1791,Sun Jun  3 18:03:56 2018
+Sion,CH,/v2/networks/bicincitta-valais-central,bicincitta-valais-central,46.2331221,7.360625999999999,7,0,0,Sun Jun  3 18:03:56 2018
+"San Francisco Bay Area, CA",US,/v2/networks/ford-gobike,ford-gobike,37.7141454,-122.25,289,3589,2520,Sun Jun  3 18:03:56 2018
+Köln,DE,/v2/networks/kvb-rad-koln,kvb-rad-koln,50.9429,6.9564900000000005,14,23,2,Sun Jun  3 18:03:56 2018
+Bochum,DE,/v2/networks/metropolradruhr-bochum,metropolradruhr-bochum,51.4813,7.2133,77,790,162,Sun Jun  3 18:03:56 2018
+Bottrop,DE,/v2/networks/metropolradruhr-bottrop,metropolradruhr-bottrop,51.5263,6.94611,7,45,15,Sun Jun  3 18:03:56 2018
+Duisburg,DE,/v2/networks/metropolradruhr-duisburg,metropolradruhr-duisburg,51.4487,6.77513,32,184,97,Sun Jun  3 18:03:56 2018
+Gelsenkirchen,DE,/v2/networks/metropolradruhr-gelsenkirchen,metropolradruhr-gelsenkirchen,51.5404,7.07039,19,136,34,Sun Jun  3 18:03:56 2018
+Herne,DE,/v2/networks/metropolradruhr-herne,metropolradruhr-herne,51.5363,7.21493,7,40,21,Sun Jun  3 18:03:56 2018
+Oberhausen,DE,/v2/networks/metropolradruhr-oberhausen,metropolradruhr-oberhausen,51.4936,6.85169,19,158,42,Sun Jun  3 18:03:56 2018
+Mülheim a.d.R.,DE,/v2/networks/metropolradruhr-mulheim-adr,metropolradruhr-mulheim-adr,51.4308,6.87401,31,121,90,Sun Jun  3 18:03:56 2018
+Holzgerlingen,DE,/v2/networks/ebikestation-holzgerlingen,ebikestation-holzgerlingen,48.6388,9.0096,1,12,0,Sun Jun  3 18:03:56 2018
+Filderstadt,DE,/v2/networks/ebikestation-filderstadt,ebikestation-filderstadt,48.6588,9.22585,1,4,0,Sun Jun  3 18:03:56 2018
+Schorndorf,DE,/v2/networks/ebikestation-schorndorf,ebikestation-schorndorf,48.8015,9.52962,2,11,8,Sun Jun  3 18:03:56 2018
+Malta,MT,/v2/networks/nextbike-malta,nextbike-malta,35.919200000000004,14.4889,52,194,205,Sun Jun  3 18:03:56 2018
+Remseck am Neckar,DE,/v2/networks/ebikestation-remseck-am-neckar,ebikestation-remseck-am-neckar,48.8767,9.26179,1,9,1,Sun Jun  3 18:03:56 2018
+Fellbach,DE,/v2/networks/ebikestation-fellbach,ebikestation-fellbach,48.8166,9.27967,1,11,1,Sun Jun  3 18:03:56 2018
+"San Diego, CA",US,/v2/networks/decobike-san-diego,decobike-san-diego,32.715738,-117.1610838,99,1049,439,Sun Jun  3 18:03:56 2018
+Sestri Levante - Lavagna,IT,/v2/networks/tigullionbike,tigullionbike,44.272554,9.395714,8,24,7,Sun Jun  3 18:03:56 2018
+Santa Margherita Ligure - Portofino - Camogli,IT,/v2/networks/portofino-park-and-bike,portofino-park-and-bike,44.335084,9.211264,10,50,28,Sun Jun  3 18:03:56 2018
+Ascoli Piceno,IT,/v2/networks/ascoli-piceno,ascoli-piceno,42.85,13.583333,5,0,0,Sun Jun  3 18:03:56 2018
+Arezzo,IT,/v2/networks/arbike,arbike,43.473333,11.87,8,52,21,Sun Jun  3 18:03:56 2018
+Biella,IT,/v2/networks/biella,biella,45.5775,8.051111,6,28,11,Sun Jun  3 18:03:56 2018
+Bergamo,IT,/v2/networks/bigi,bigi,45.695,9.67,23,174,111,Sun Jun  3 18:03:56 2018
+Busto Arsizio,IT,/v2/networks/bici-in-busto,bici-in-busto,45.610555,8.852062,9,34,28,Sun Jun  3 18:03:56 2018
+Cuneo,IT,/v2/networks/cuneo,cuneo,44.384238,7.541428,9,47,39,Sun Jun  3 18:03:56 2018
+Frosinone,IT,/v2/networks/free-bike-sharing,free-bike-sharing,41.645081,13.342123,6,11,4,Sun Jun  3 18:03:56 2018
+Lecco,IT,/v2/networks/lecco,lecco,45.8565698,9.397670399999999,12,71,30,Sun Jun  3 18:03:56 2018
+Manerba del Garda,IT,/v2/networks/manerba-in-bici,manerba-in-bici,45.561179,10.559406,7,25,22,Sun Jun  3 18:03:56 2018
+Marciana Marina,IT,/v2/networks/mar-e-bici,mar-e-bici,42.805855,10.196514,5,0,0,Sun Jun  3 18:03:56 2018
+Novara,IT,/v2/networks/novara,novara,45.44574,8.622165,14,5,1,Sun Jun  3 18:03:56 2018
+Parco Nazionale del Gargano,IT,/v2/networks/parkinbici,parkinbici,41.7817081,15.8516421,12,0,0,Sun Jun  3 18:03:56 2018
+Padova,IT,/v2/networks/goodbike,goodbike,45.4064349,11.8767611,28,186,115,Sun Jun  3 18:03:56 2018
+Parma,IT,/v2/networks/parma,parma,44.801485,10.327903599999999,26,171,76,Sun Jun  3 18:03:56 2018
+Perugia,IT,/v2/networks/bici-perugia,bici-perugia,43.1107168,12.3908279,7,50,12,Sun Jun  3 18:03:56 2018
+Pavia,IT,/v2/networks/pavia-in-bici,pavia-in-bici,45.1847248,9.1582069,7,49,21,Sun Jun  3 18:03:56 2018
+Piacenza,IT,/v2/networks/piacenza,piacenza,45.0473754,9.6865813,4,42,20,Sun Jun  3 18:03:56 2018
+Pinerolo,IT,/v2/networks/pinerolo,pinerolo,44.8850256,7.3499953,9,0,0,Sun Jun  3 18:03:56 2018
+Reggio Emilia,IT,/v2/networks/reggio-emilia,reggio-emilia,44.6989932,10.6296859,16,0,0,Sun Jun  3 18:03:56 2018
+Rimini,IT,/v2/networks/rimini,rimini,44.0570817,12.5646003,9,50,22,Sun Jun  3 18:03:56 2018
+Saluzzo,IT,/v2/networks/saluzzo,saluzzo,44.6445404,7.492735499999999,9,0,0,Sun Jun  3 18:03:56 2018
+Terni,IT,/v2/networks/terni,terni,42.5636168,12.6426604,13,0,0,Sun Jun  3 18:03:56 2018
+Tirano,IT,/v2/networks/tirano-in-bici,tirano-in-bici,46.216168,10.1696056,5,11,24,Sun Jun  3 18:03:56 2018
+Schio,IT,/v2/networks/bicischio,bicischio,45.7170517,11.3597702,3,0,0,Sun Jun  3 18:03:56 2018
+Savigliano,IT,/v2/networks/savigliano,savigliano,44.6470327,7.662463499999999,14,57,27,Sun Jun  3 18:03:56 2018
+Udine,IT,/v2/networks/udine,udine,46.0710668,13.2345794,24,158,96,Sun Jun  3 18:03:56 2018
+Ustica,IT,/v2/networks/ustica,ustica,38.7031179,13.1682675,4,0,0,Sun Jun  3 18:03:56 2018
+Como,IT,/v2/networks/bici-co,bici-co,45.8080597,9.0851765,16,78,72,Sun Jun  3 18:03:56 2018
+La Spezia,IT,/v2/networks/speziainbici,speziainbici,44.1024504,9.824082599999999,19,108,82,Sun Jun  3 18:03:56 2018
+Pisa,IT,/v2/networks/ciclopi,ciclopi,43.7228386,10.4016888,25,231,147,Sun Jun  3 18:03:56 2018
+Venezia,IT,/v2/networks/venezia,venezia,45.4408474,12.3155151,19,113,83,Sun Jun  3 18:03:56 2018
+Torino,IT,/v2/networks/to-bike,to-bike,45.07098200000001,7.685676,198,888,1098,Sun Jun  3 18:03:56 2018
+Cagliari,IT,/v2/networks/cagliari,cagliari,39.220817,9.121399,10,61,44,Sun Jun  3 18:03:56 2018
+Varese,IT,/v2/networks/gimme-bike,gimme-bike,45.8183902,8.823913,14,32,28,Sun Jun  3 18:03:56 2018
+Sellero,IT,/v2/networks/sellero,sellero,46.06304765446406,10.353434085845947,2,0,0,Sun Jun  3 18:03:56 2018
+Ugento,IT,/v2/networks/ugento,ugento,39.9273518,18.1582962,6,6,8,Sun Jun  3 18:03:56 2018
+Prata Camportaccio,IT,/v2/networks/prata-camportaccio,prata-camportaccio,46.3042146,9.3964914,1,5,5,Sun Jun  3 18:03:56 2018
+Barcellona Pozzo di Gotto,IT,/v2/networks/longanoinbici,longanoinbici,38.149812517944284,15.212116241455078,5,0,0,Sun Jun  3 18:03:56 2018
+Civitavecchia,IT,/v2/networks/civitavecchia,civitavecchia,42.0937524,11.7922462,4,0,0,Sun Jun  3 18:03:56 2018
+Cassano d'Adda,IT,/v2/networks/cassano-d-adda,cassano-d-adda,45.5309616,9.515581300000001,2,10,2,Sun Jun  3 18:03:56 2018
+Rieti,IT,/v2/networks/rietinbici,rietinbici,42.40262397383167,12.86099910736084,4,8,0,Sun Jun  3 18:03:56 2018
+Bianzone,IT,/v2/networks/bianzone-in-bici,bianzone-in-bici,46.188197,10.109354,1,0,0,Sun Jun  3 18:03:56 2018
+Lecce,IT,/v2/networks/lecce,lecce,40.35040350928062,18.177824020385742,11,17,0,Sun Jun  3 18:03:56 2018
+Castellucchio,IT,/v2/networks/castellucchio,castellucchio,45.15047821582959,10.651202201843262,1,0,0,Sun Jun  3 18:03:56 2018
+Enna,IT,/v2/networks/enna,enna,37.56342572664775,14.27973747253418,5,0,0,Sun Jun  3 18:03:56 2018
+Noto,IT,/v2/networks/notoinbici,notoinbici,36.889437754839854,15.074658393859863,4,11,5,Sun Jun  3 18:03:56 2018
+Carbonia,IT,/v2/networks/carbonia,carbonia,39.167222,8.522222,10,14,1,Sun Jun  3 18:03:56 2018
+Pordenone,IT,/v2/networks/pordenone,pordenone,45.94790101663391,12.674491020251475,2,8,8,Sun Jun  3 18:03:56 2018
+Genova,IT,/v2/networks/mobike,mobike,44.40430089372731,8.92908986230462,17,65,14,Sun Jun  3 18:03:56 2018
+Cremona,IT,/v2/networks/scegli-in-bici,scegli-in-bici,45.134914104864116,10.0222648619018,8,24,31,Sun Jun  3 18:03:56 2018
+Pergine Valsugana,IT,/v2/networks/e-motion-pergine-valsugana,e-motion-pergine-valsugana,46.06050419001399,11.239041694195503,7,33,15,Sun Jun  3 18:03:56 2018
+Trento,IT,/v2/networks/e-motion-trento,e-motion-trento,46.06643205823519,11.122145390351879,19,204,71,Sun Jun  3 18:03:56 2018
+Lodi,IT,/v2/networks/we-love-bike,we-love-bike,45.3097228,9.503715999999999,1,0,0,Sun Jun  3 18:03:56 2018
+Rovereto,IT,/v2/networks/e-motion-rovereto,e-motion-rovereto,45.88710661061543,11.042242751867644,17,104,44,Sun Jun  3 18:03:56 2018
+Monopoli,IT,/v2/networks/monopoli-bike,monopoli-bike,40.94519109440738,17.311687995336918,4,0,0,Sun Jun  3 18:03:56 2018
+Andria,IT,/v2/networks/andria,andria,41.224346932834,16.296983922753956,12,13,0,Sun Jun  3 18:03:56 2018
+Quartucciu,IT,/v2/networks/bicinquartucciu,bicinquartucciu,39.25043149806156,9.179296426489255,2,0,0,Sun Jun  3 18:03:56 2018
+Olbia,IT,/v2/networks/olbia-bike,olbia-bike,40.9240543,9.4994397,3,10,8,Sun Jun  3 18:03:56 2018
+Savona,IT,/v2/networks/savona,savona,44.29516444397244,8.463126708984431,7,0,0,Sun Jun  3 18:03:56 2018
+Brindisi,IT,/v2/networks/brindisi,brindisi,40.637580319936106,17.940774547082572,5,11,35,Sun Jun  3 18:03:56 2018
+Alba,IT,/v2/networks/alba,alba,44.716667,8.083333,9,11,0,Sun Jun  3 18:03:56 2018
+Tradate,IT,/v2/networks/tradate,tradate,45.70938576720161,8.915993391601548,6,0,0,Sun Jun  3 18:03:56 2018
+Chivasso,IT,/v2/networks/chivasso,chivasso,45.189765,7.888935,12,61,45,Sun Jun  3 18:03:56 2018
+Santa Maria Maggiore - Malesco - Villette,IT,/v2/networks/ossola,ossola,46.127196,8.499169,6,6,13,Sun Jun  3 18:03:56 2018
+Jesi,IT,/v2/networks/jesinbici,jesinbici,43.522601,13.244448,4,0,0,Sun Jun  3 18:03:56 2018
+Pamplona,ES,/v2/networks/nbici,nbici,42.8116631,-1.6482652999999998,5,56,58,Sun Jun  3 18:03:56 2018
+Treviso,IT,/v2/networks/treviso,treviso,45.6669011,12.243039,31,115,68,Sun Jun  3 18:03:56 2018
+Sondrio,IT,/v2/networks/sondrio,sondrio,46.1698583,9.8787674,4,5,1,Sun Jun  3 18:03:56 2018
+Vercelli,IT,/v2/networks/vercelli,vercelli,45.32022720000001,8.418573499999999,5,56,23,Sun Jun  3 18:03:56 2018
+"Denver, CO",US,/v2/networks/denver,denver,39.72055,-104.95253,86,784,580,Sun Jun  3 18:03:56 2018
+"Boulder, CO",US,/v2/networks/boulder,boulder,40.00811,-105.26385,45,343,252,Sun Jun  3 18:03:56 2018
+"Fort Lauderdale, FL",US,/v2/networks/broward,broward,26.12026,-80.14819,23,139,111,Sun Jun  3 18:03:56 2018
+"Des Moines, IA",US,/v2/networks/desmoines,desmoines,41.6005448,-93.6091064,21,135,119,Sun Jun  3 18:03:56 2018
+"Charlotte, NC",US,/v2/networks/charlotte,charlotte,35.22716,-80.83855,26,180,173,Sun Jun  3 18:03:56 2018
+"Fort Worth, TX",US,/v2/networks/fortworth,fortworth,32.7516,-97.32888,46,301,317,Sun Jun  3 18:03:56 2018
+Salt Lake City,US,/v2/networks/greenbikeslc,greenbikeslc,40.76745,-111.88736,32,330,297,Sun Jun  3 18:03:56 2018
+"Greenville, SC",US,/v2/networks/greenville,greenville,34.85261759999999,-82.3940104,10,38,46,Sun Jun  3 18:03:56 2018
+"Houston, TX",US,/v2/networks/houston,houston,29.75983,-95.36949,60,483,298,Sun Jun  3 18:03:56 2018
+"Kansas City, MO",US,/v2/networks/kansascity,kansascity,39.0999,-94.5857,42,269,196,Sun Jun  3 18:03:56 2018
+"Madison, WI",US,/v2/networks/madison,madison,43.07571,-89.38527,43,306,228,Sun Jun  3 18:03:56 2018
+"Nashville, TN",US,/v2/networks/nashville,nashville,36.1666667,-86.7833333,36,215,209,Sun Jun  3 18:03:56 2018
+"Omaha, NE",US,/v2/networks/omaha,omaha,41.25832,-96.00853,33,166,183,Sun Jun  3 18:03:56 2018
+"San Antonio, TX",US,/v2/networks/sanantonio,sanantonio,29.43701,-98.48236,60,408,455,Sun Jun  3 18:03:56 2018
+"Spartanburg, SC",US,/v2/networks/spartanburg,spartanburg,34.94867,-81.93345,5,16,36,Sun Jun  3 18:03:56 2018
+"Fargo, ND",US,/v2/networks/greatrides,greatrides,46.89248,-96.80095,11,89,87,Sun Jun  3 18:03:56 2018
+Mainz,DE,/v2/networks/mvgmeinrad,mvgmeinrad,49.992862,8.247253,120,1077,694,Sun Jun  3 18:03:56 2018
+Astana,KZ,/v2/networks/velobike,velobike,51.166667,71.416667,139,1540,14,Sun Jun  3 18:03:56 2018
+Moscow,RU,/v2/networks/velobike-moscow,velobike-moscow,55.75,37.616667,416,3410,2933,Sun Jun  3 18:03:56 2018
+Reykjavík,IS,/v2/networks/wowcycle-reykjavik,wowcycle-reykjavik,64.128288,-21.827774,8,56,78,Sun Jun  3 18:03:56 2018
+San Teodoro,IT,/v2/networks/bicincitta-san-teodoro,bicincitta-san-teodoro,40.7722837,9.6695458,1,0,0,Sun Jun  3 18:03:56 2018
+Lódź,PL,/v2/networks/lodzki-rower-publiczny-lodz,lodzki-rower-publiczny-lodz,51.7689,19.4554,150,1149,641,Sun Jun  3 18:03:56 2018
+Lublin,PL,/v2/networks/lrm-lublin-lublin,lrm-lublin-lublin,51.2469,22.5697,86,604,377,Sun Jun  3 18:03:56 2018
+Grodzisk Mazowiecki,PL,/v2/networks/grm-grodzisk-grodzisk-mazowiecki,grm-grodzisk-grodzisk-mazowiecki,52.113,20.6265,9,74,39,Sun Jun  3 18:03:56 2018
+Świdnik,PL,/v2/networks/lrm-lublin-swidnik,lrm-lublin-swidnik,51.2194,22.6988,5,20,24,Sun Jun  3 18:03:56 2018
+Katowice,PL,/v2/networks/katowice-bike-katowice,katowice-bike-katowice,50.2594,19.0215,47,286,189,Sun Jun  3 18:03:56 2018
+Michałowice,PL,/v2/networks/rower-gminny-michalowice-michalowice,rower-gminny-michalowice-michalowice,52.1686,20.9957,7,38,28,Sun Jun  3 18:03:56 2018
+Gliwice,PL,/v2/networks/gliwicki-rower-miejski-sgrm-gliwice,gliwicki-rower-miejski-sgrm-gliwice,50.2937,18.6737,15,114,130,Sun Jun  3 18:03:56 2018
+Poznań,PL,/v2/networks/prm-stacje-sponsorskie-nextbike-prm,prm-stacje-sponsorskie-nextbike-prm,52.4077,16.9323,4,37,24,Sun Jun  3 18:03:56 2018
+Radom,PL,/v2/networks/radomski-rower-miejski-radom,radomski-rower-miejski-radom,51.3994,21.1655,25,188,118,Sun Jun  3 18:03:56 2018
+Zgierz,PL,/v2/networks/zgierski-rower-miejski-zgierz,zgierski-rower-miejski-zgierz,51.8602,19.4118,4,48,0,Sun Jun  3 18:03:56 2018
+Tychy,PL,/v2/networks/tyski-rower-miejski-tychy,tyski-rower-miejski-tychy,50.1294,18.994,7,34,33,Sun Jun  3 18:03:56 2018
+Kędzierzyn-Koźle,PL,/v2/networks/ok-bike-kedzierzyn-kozle,ok-bike-kedzierzyn-kozle,50.3417,18.2043,10,6,47,Sun Jun  3 18:03:56 2018
+Kołobrzeg,PL,/v2/networks/kolobrzeski-rower-miejski-kolobrzeg,kolobrzeski-rower-miejski-kolobrzeg,54.1762,15.5761,12,84,57,Sun Jun  3 18:03:56 2018
+Siedlce,PL,/v2/networks/siedlecki-rower-miejski-siedlce,siedlecki-rower-miejski-siedlce,52.1668,22.2891,4,41,18,Sun Jun  3 18:03:56 2018
+Szczecin,PL,/v2/networks/bike-s-srm-szczecin,bike-s-srm-szczecin,53.4301,14.5498,86,659,317,Sun Jun  3 18:03:56 2018
+"Austin, TX",US,/v2/networks/austin,austin,30.26408,-97.74355,63,467,401,Sun Jun  3 18:03:56 2018
+Santiago,CL,/v2/networks/santiago,santiago,-33.457,-70.648,175,2434,680,Sun Jun  3 18:03:56 2018
+"Indianapolis, IN",US,/v2/networks/indiana-pacers-bikeshare,indiana-pacers-bikeshare,39.76593,-86.16216,29,192,185,Sun Jun  3 18:03:56 2018
+"Milwaukee, WI",US,/v2/networks/bublr-bikes,bublr-bikes,43.0369,-87.89667,86,729,532,Sun Jun  3 18:03:56 2018
+"Evans, GA",US,/v2/networks/columbia-county,columbia-county,33.5375,-82.127778,1,0,7,Sun Jun  3 18:03:56 2018
+"Savannah, GA",US,/v2/networks/catbike,catbike,32.016667,-81.116667,2,12,9,Sun Jun  3 18:03:56 2018
+"Rapid City, SD",US,/v2/networks/rapid-city,rapid-city,44.076,-103.228,2,5,10,Sun Jun  3 18:03:56 2018
+Nice,FR,/v2/networks/velobleu,velobleu,43.695949,7.271413,186,1743,882,Sun Jun  3 18:03:56 2018
+Dunkerque,FR,/v2/networks/dkvelo,dkvelo,51.0383,2.3775,46,430,278,Sun Jun  3 18:03:56 2018
+Vannes,FR,/v2/networks/velocea,velocea,47.6559,-2.7603,25,0,0,Sun Jun  3 18:03:56 2018
+Calais,FR,/v2/networks/vel-in,vel-in,50.95,1.85,40,362,178,Sun Jun  3 18:03:56 2018
+A Rúa,ES,/v2/networks/onroll-a-rua,onroll-a-rua,42.392049,-7.114634,2,14,1,Sun Jun  3 18:03:56 2018
+Pau,FR,/v2/networks/idecycle,idecycle,43.2951,-0.370797,17,157,149,Sun Jun  3 18:03:56 2018
+Lille,FR,/v2/networks/vlille,vlille,50.62925,3.057256,222,2303,2041,Sun Jun  3 18:03:56 2018
+Albacete,ES,/v2/networks/onroll-albacete,onroll-albacete,38.98913,-1.858485,10,100,0,Sun Jun  3 18:03:56 2018
+Alhama de Murcia,ES,/v2/networks/onroll-alhama-de-murcia,onroll-alhama-de-murcia,37.849831,-1.424891,9,74,16,Sun Jun  3 18:03:56 2018
+Almuñécar,ES,/v2/networks/onroll-almunecar,onroll-almunecar,36.735789,-3.688828,1,10,0,Sun Jun  3 18:03:56 2018
+Antequera,ES,/v2/networks/onroll-antequera,onroll-antequera,37.018427,-4.563775,7,24,34,Sun Jun  3 18:03:56 2018
+Aranda de Duero,ES,/v2/networks/onroll-aranda-de-duero,onroll-aranda-de-duero,41.667601,-3.689526,6,64,2,Sun Jun  3 18:03:56 2018
+Aranjuez,ES,/v2/networks/onroll-aranjuez,onroll-aranjuez,40.03097,-3.6057420000000002,8,95,6,Sun Jun  3 18:03:56 2018
+Badajoz,ES,/v2/networks/onroll-badajoz,onroll-badajoz,38.873627,-6.99451,11,106,0,Sun Jun  3 18:03:56 2018
+Baeza,ES,/v2/networks/onroll-baeza,onroll-baeza,37.99537,-3.468248,5,33,15,Sun Jun  3 18:03:56 2018
+Benidorm,ES,/v2/networks/onroll-benidorm,onroll-benidorm,38.541251,-0.126808,10,98,0,Sun Jun  3 18:03:56 2018
+Blanca,ES,/v2/networks/onroll-blanca,onroll-blanca,38.178195,-1.3724020000000001,5,42,3,Sun Jun  3 18:03:56 2018
+Cieza,ES,/v2/networks/onroll-cieza,onroll-cieza,38.239139,-1.417262,6,59,1,Sun Jun  3 18:03:56 2018
+Don Benito - Villanueva,ES,/v2/networks/onroll-don-benito-villanueva,onroll-don-benito-villanueva,38.964699,-5.829693,11,53,19,Sun Jun  3 18:03:56 2018
+Guadalajara,ES,/v2/networks/onroll-guadalajara,onroll-guadalajara,40.633021,-3.166097,12,94,24,Sun Jun  3 18:03:56 2018
+Elche,ES,/v2/networks/onroll-elche,onroll-elche,38.2668,-0.696217,35,312,185,Sun Jun  3 18:03:56 2018
+El Campello,ES,/v2/networks/onroll-el-campello,onroll-el-campello,38.419616,-0.39838799999999996,4,23,17,Sun Jun  3 18:03:56 2018
+Jaén,ES,/v2/networks/onroll-jaen,onroll-jaen,37.777738,-3.790758,5,41,2,Sun Jun  3 18:03:56 2018
+Lalín,ES,/v2/networks/onroll-lalin,onroll-lalin,42.658626,-8.114976,4,48,4,Sun Jun  3 18:03:56 2018
+Las Palmas de Gran Canaria,ES,/v2/networks/onroll-las-palmas,onroll-las-palmas,28.124302,-15.425994,11,122,6,Sun Jun  3 18:03:56 2018
+Montilla,ES,/v2/networks/onroll-montilla,onroll-montilla,37.584151,-4.641359,5,26,22,Sun Jun  3 18:03:56 2018
+Mula,ES,/v2/networks/onroll-mula,onroll-mula,38.040805,-1.4974509999999999,5,45,5,Sun Jun  3 18:03:56 2018
+Novelda,ES,/v2/networks/onroll-novelda,onroll-novelda,38.386447,-0.767134,8,64,8,Sun Jun  3 18:03:56 2018
+O Barco,ES,/v2/networks/onroll-o-barco,onroll-o-barco,42.413993,-6.982913,4,24,12,Sun Jun  3 18:03:56 2018
+Paiporta,ES,/v2/networks/onroll-paiporta,onroll-paiporta,39.427609,-0.41687599999999997,6,24,30,Sun Jun  3 18:03:56 2018
+Priego de Córdoba,ES,/v2/networks/onroll-priego-de-cordoba,onroll-priego-de-cordoba,37.440517,-4.201188,5,50,0,Sun Jun  3 18:03:56 2018
+Pinto,ES,/v2/networks/onroll-pinto,onroll-pinto,40.245741,-3.698611,9,90,0,Sun Jun  3 18:03:56 2018
+Palencia,ES,/v2/networks/onroll-palencia,onroll-palencia,42.005639,-4.527022,5,39,5,Sun Jun  3 18:03:56 2018
+Puerto Lumbreras,ES,/v2/networks/onroll-puerto-lumbreras,onroll-puerto-lumbreras,37.556652,-1.811508,3,11,10,Sun Jun  3 18:03:56 2018
+Puertollano,ES,/v2/networks/onroll-puertollano,onroll-puertollano,38.691396,-4.107794,10,96,4,Sun Jun  3 18:03:56 2018
+Redondela,ES,/v2/networks/onroll-redondela,onroll-redondela,42.299964,-8.615428,2,17,8,Sun Jun  3 18:03:56 2018
+Salamanca,ES,/v2/networks/onroll-salamanca,onroll-salamanca,40.966771,-5.665432,29,220,146,Sun Jun  3 18:03:56 2018
+San Javier,ES,/v2/networks/onroll-san-javier,onroll-san-javier,37.783704,-0.808097,5,49,1,Sun Jun  3 18:03:56 2018
+San Pedro del Pinatar,ES,/v2/networks/onroll-san-pedro,onroll-san-pedro,37.827578,-0.783944,5,48,1,Sun Jun  3 18:03:56 2018
+Sant Joan d'Alacant,ES,/v2/networks/onroll-sant-joan,onroll-sant-joan,38.399839,-0.43452199999999996,6,60,0,Sun Jun  3 18:03:56 2018
+Soria,ES,/v2/networks/onroll-soria,onroll-soria,41.763653,-2.467069,6,67,0,Sun Jun  3 18:03:56 2018
+Segovia,ES,/v2/networks/onroll-segovia,onroll-segovia,40.941941,-4.112397,6,67,0,Sun Jun  3 18:03:56 2018
+Talavera de la Reina,ES,/v2/networks/onroll-talavera,onroll-talavera,39.961829,-4.830319,5,41,3,Sun Jun  3 18:03:56 2018
+Úbeda,ES,/v2/networks/onroll-ubeda,onroll-ubeda,38.011463,-3.373276,5,30,19,Sun Jun  3 18:03:56 2018
+Noia - Portosin - Porto do Son,ES,/v2/networks/onroll-via-verde,onroll-via-verde,42.768127,-8.908513,6,33,13,Sun Jun  3 18:03:56 2018
+Vinaròs,ES,/v2/networks/onroll-vinaros,onroll-vinaros,40.468258,0.466972,7,33,16,Sun Jun  3 18:03:56 2018
+Villaquilambre,ES,/v2/networks/onroll-villaquilambre,onroll-villaquilambre,42.642358,-5.535311,5,46,0,Sun Jun  3 18:03:56 2018
+"Universidad de Granada, Granada",ES,/v2/networks/onroll-universidad-de-granada,onroll-universidad-de-granada,37.182438,-3.604219,8,21,29,Sun Jun  3 18:03:56 2018
+León,ES,/v2/networks/bicileon,bicileon,42.5987263,-5.5670959,11,101,9,Sun Jun  3 18:03:56 2018
+Belo Horizonte,BR,/v2/networks/bikebh,bikebh,-19.920793,-43.922165,40,418,70,Sun Jun  3 18:03:56 2018
+Santos,BR,/v2/networks/bikesantos,bikesantos,-23.954052,-46.333345,35,273,158,Sun Jun  3 18:03:56 2018
+Petrolina,BR,/v2/networks/bikepetrolina,bikepetrolina,-9.389049,-40.502751,7,81,13,Sun Jun  3 18:03:56 2018
+Brasília,BR,/v2/networks/bikebrasilia,bikebrasilia,-15.795115,-47.887424,46,373,181,Sun Jun  3 18:03:56 2018
+Darmstadt,DE,/v2/networks/callabike-darmstadt,callabike-darmstadt,49.8707135,8.6527299,39,0,170,Sun Jun  3 18:03:56 2018
+Kassel,DE,/v2/networks/konrad,konrad,51.3148861,9.4606148,58,0,284,Sun Jun  3 18:03:56 2018
+Berlin,DE,/v2/networks/callabike-berlin,callabike-berlin,52.5075419,13.4251364,2,0,1,Sun Jun  3 18:03:56 2018
+Frankfurt am Main,DE,/v2/networks/callabike-frankfurt,callabike-frankfurt,50.121212,8.6365638,611,0,1139,Sun Jun  3 18:03:56 2018
+Frankfurt am Main Airport,DE,/v2/networks/callabike-frankfurt-airport,callabike-frankfurt-airport,50.037933,8.562152,2,0,24,Sun Jun  3 18:03:56 2018
+Hamburg,DE,/v2/networks/stadtrad,stadtrad,53.558572,9.9278215,205,0,1819,Sun Jun  3 18:03:56 2018
+Köln,DE,/v2/networks/callabike-koln,callabike-koln,50.9572449,6.9673223,295,0,300,Sun Jun  3 18:03:56 2018
+Lüneburg,DE,/v2/networks/callabike-luneburg,callabike-luneburg,53.2390538,10.4226391,7,0,61,Sun Jun  3 18:03:56 2018
+Marburg,DE,/v2/networks/callabike-marburg,callabike-marburg,50.7983011,8.7428139,23,0,101,Sun Jun  3 18:03:56 2018
+München,DE,/v2/networks/callabike-munchen,callabike-munchen,48.1549107,11.5418357,461,0,465,Sun Jun  3 18:03:56 2018
+Rüsselsheim,DE,/v2/networks/callabike-russelsheim,callabike-russelsheim,49.9820031,8.4528392,8,0,35,Sun Jun  3 18:03:56 2018
+Stuttgart,DE,/v2/networks/callabike-stuttgart,callabike-stuttgart,48.779209,9.1772152,44,0,451,Sun Jun  3 18:03:56 2018
+Wiesbaden,DE,/v2/networks/callabike-wiesbaden,callabike-wiesbaden,50.0724825,8.2483534,16,0,71,Sun Jun  3 18:03:56 2018
+Milano,IT,/v2/networks/bikemi,bikemi,45.4654542,9.186516,270,3662,3835,Sun Jun  3 18:03:56 2018
+Zaragoza,ES,/v2/networks/bizi,bizi,41.6487908,-0.8895811,130,1493,1270,Sun Jun  3 18:03:56 2018
+Barcelona,ES,/v2/networks/bicing,bicing,41.3850639,2.1734035,463,6492,4268,Sun Jun  3 18:03:56 2018
+Cd de México,MX,/v2/networks/ecobici,ecobici,19.4326077,-99.133208,479,8787,3835,Sun Jun  3 18:03:56 2018
+Antwerpen,BE,/v2/networks/velo-antwerpen,velo-antwerpen,51.216667,4.4,290,5746,3401,Sun Jun  3 18:03:56 2018
+Rouen,FR,/v2/networks/cyclic,cyclic,49.44323199999999,1.099971,24,262,221,Sun Jun  3 18:03:56 2018
+Paris,FR,/v2/networks/velib,velib,48.856614,2.3522219,896,21332,3428,Sun Jun  3 18:03:56 2018
+Toulouse,FR,/v2/networks/velo,velo,43.604652,1.4442089999999999,275,2969,2389,Sun Jun  3 18:03:56 2018
+Luxembourg,LU,/v2/networks/veloh,veloh,49.6301025,6.1520185,74,694,651,Sun Jun  3 18:03:56 2018
+Valencia,ES,/v2/networks/valenbisi,valenbisi,39.4699075,-0.37628809999999996,275,2928,2483,Sun Jun  3 18:03:56 2018
+Göteborg,SE,/v2/networks/goeteborg,goeteborg,57.70887,11.97456,70,1082,770,Sun Jun  3 18:03:56 2018
+Santander,ES,/v2/networks/tusbic,tusbic,43.46230569999999,-3.8099803,17,185,185,Sun Jun  3 18:03:56 2018
+Lillestrøm,NO,/v2/networks/bysykkel-lillestrom,bysykkel-lillestrom,59.9559696,11.0503785,6,59,57,Sun Jun  3 18:03:56 2018
+Amiens,FR,/v2/networks/velam,velam,49.894067,2.295753,23,244,201,Sun Jun  3 18:03:56 2018
+Mulhouse,FR,/v2/networks/velocite-mulhouse,velocite-mulhouse,47.750839,7.335888,40,366,242,Sun Jun  3 18:03:56 2018
+Lyon,FR,/v2/networks/velov,velov,45.764043,4.835659,342,3404,2686,Sun Jun  3 18:03:56 2018
+Ljubljana,SI,/v2/networks/bicikelj,bicikelj,46.05645089999999,14.5080702,58,677,468,Sun Jun  3 18:03:56 2018
+Sevilla,ES,/v2/networks/sevici,sevici,37.3880961,-5.9823299,258,2789,2163,Sun Jun  3 18:03:56 2018
+Namur,BE,/v2/networks/li-bia-velo,li-bia-velo,50.465328,4.867665,27,190,214,Sun Jun  3 18:03:56 2018
+Nancy,FR,/v2/networks/velostanlib,velostanlib,48.692054,6.184417,29,340,220,Sun Jun  3 18:03:56 2018
+Créteil,FR,/v2/networks/cristolib,cristolib,48.790367,2.455572,10,170,78,Sun Jun  3 18:03:56 2018
+Bruxelles,BE,/v2/networks/villo,villo,50.8503396,4.3517103,349,4028,4135,Sun Jun  3 18:03:56 2018
+Cergy,FR,/v2/networks/velo2,velo2,49.03561699999999,2.060325,43,574,313,Sun Jun  3 18:03:56 2018
+Vilnius,LT,/v2/networks/vilnius-cyclocity,vilnius-cyclocity,54.6871555,25.2796514,37,332,282,Sun Jun  3 18:03:56 2018
+富山市,JP,/v2/networks/toyama-cyclocity,toyama-cyclocity,36.6959518,137.2136768,23,254,204,Sun Jun  3 18:03:56 2018
+Казань,RU,/v2/networks/velik,velik,55.7949414,49.1050445,6,105,40,Sun Jun  3 18:03:56 2018
+Marseille,FR,/v2/networks/le-velo,le-velo,43.296482,5.36978,128,978,799,Sun Jun  3 18:03:56 2018
+Nantes,FR,/v2/networks/bicloo,bicloo,47.218371,-1.5536210000000001,98,981,770,Sun Jun  3 18:03:56 2018
+Besançon,FR,/v2/networks/velocite-besancon,velocite-besancon,47.237829,6.024053899999999,30,192,193,Sun Jun  3 18:03:56 2018
+Palma,ES,/v2/networks/bicipalma,bicipalma,39.57119,2.6466339999999997,32,334,217,Sun Jun  3 18:03:56 2018
+São Paulo,BR,/v2/networks/ciclosampa,ciclosampa,-23.55,-46.6333,17,141,75,Sun Jun  3 18:03:56 2018
+Girona,ES,/v2/networks/girocleta,girocleta,41.9794005,2.8214264,20,316,216,Sun Jun  3 18:03:56 2018
+Didymoteicho,GR,/v2/networks/easybike-didymoteicho,easybike-didymoteicho,41.3502539849,26.4972960949,7,4,10,Sun Jun  3 18:03:56 2018
+Ioannina,GR,/v2/networks/easybike-ioannina,easybike-ioannina,39.6639818,20.8522784,4,0,0,Sun Jun  3 18:03:56 2018
+Karditsa,GR,/v2/networks/easybike-karditsa,easybike-karditsa,39.3634604,21.9211192,6,5,21,Sun Jun  3 18:03:56 2018
+Kavala,GR,/v2/networks/easybike-kavala,easybike-kavala,40.9369068,24.4122164,4,2,14,Sun Jun  3 18:03:56 2018
+Komotini,GR,/v2/networks/easybike-komotini,easybike-komotini,41.117833,25.4041307,6,18,9,Sun Jun  3 18:03:56 2018
+Nicosia,CY,/v2/networks/easybike-nicosia,easybike-nicosia,35.1739302,33.364726,27,308,132,Sun Jun  3 18:03:56 2018
+Thessaloniki,GR,/v2/networks/thessbike,thessbike,40.6403167,22.9352716,8,432,103,Sun Jun  3 18:03:56 2018
+Irakleio,GR,/v2/networks/easybike-irakleio,easybike-irakleio,35.338735,25.144213,3,0,100,Sun Jun  3 18:03:56 2018
+Mani,GR,/v2/networks/easybike-mani,easybike-mani,41.4097472,26.4024952,2,0,100,Sun Jun  3 18:03:56 2018
+Buenos Aires,AR,/v2/networks/ecobici-buenos-aires,ecobici-buenos-aires,-34.630665,-58.41156,193,3102,690,Sun Jun  3 18:03:56 2018
+Medellin,CO,/v2/networks/encicla,encicla,6.254942,-75.567982,54,1159,602,Sun Jun  3 18:03:56 2018
+Fortaleza,BR,/v2/networks/bicicletar,bicicletar,-3.7321944,-38.510347,85,665,391,Sun Jun  3 18:03:56 2018
+Aracajú,BR,/v2/networks/cajubike,cajubike,-10.987263,-37.051898,2,16,8,Sun Jun  3 18:03:56 2018
+Leipzig,DE,/v2/networks/nextbike-leipzig,nextbike-leipzig,51.3415,12.3625,99,0,263,Sun Jun  3 18:03:56 2018
+Luzern,CH,/v2/networks/nextbike-luzern,nextbike-luzern,47.0472,8.30446,84,1,239,Sun Jun  3 18:03:56 2018
+Tübingen,DE,/v2/networks/nextbike-tubingen,nextbike-tubingen,48.5203,9.05591,10,19,41,Sun Jun  3 18:03:56 2018
+München,DE,/v2/networks/nextbike-munchen,nextbike-munchen,48.1358,11.5356,8,24,26,Sun Jun  3 18:03:56 2018
+Wachau,AT,/v2/networks/nextbike-wachau,nextbike-wachau,48.3188,15.4166,28,0,84,Sun Jun  3 18:03:56 2018
+Tulln,AT,/v2/networks/nextbike-tulln,nextbike-tulln,48.3269,16.0569,8,0,30,Sun Jun  3 18:03:56 2018
+Triestingtal,AT,/v2/networks/nextbike-triestingtal,nextbike-triestingtal,47.9421,16.1149,4,0,15,Sun Jun  3 18:03:56 2018
+Thermenregion,AT,/v2/networks/nextbike-thermenregion,nextbike-thermenregion,47.9892,16.2646,12,0,41,Sun Jun  3 18:03:56 2018
+Flensburg,DE,/v2/networks/nextbike-flensburg,nextbike-flensburg,54.7804,9.43571,9,0,28,Sun Jun  3 18:03:56 2018
+Römerland,AT,/v2/networks/nextbike-romerland,nextbike-romerland,48.0909,16.853,5,0,23,Sun Jun  3 18:03:56 2018
+Offenburg,DE,/v2/networks/nextbike-offenburg,nextbike-offenburg,48.4721,7.94243,18,69,58,Sun Jun  3 18:03:56 2018
+Potsdam,DE,/v2/networks/nextbike-potsdam,nextbike-potsdam,52.3997,13.0676,40,144,147,Sun Jun  3 18:03:56 2018
+Unteres Traisental,AT,/v2/networks/nextbike-unteres-traisental,nextbike-unteres-traisental,48.1111,15.8176,2,0,7,Sun Jun  3 18:03:56 2018
+10vorWien,AT,/v2/networks/nextbike-10vorwien,nextbike-10vorwien,48.3403,16.279,22,0,79,Sun Jun  3 18:03:56 2018
+Marchfeld,AT,/v2/networks/nextbike-marchfeld,nextbike-marchfeld,48.2407,16.9093,3,0,13,Sun Jun  3 18:03:56 2018
+Norderstedt,DE,/v2/networks/nextbike-norderstedt,nextbike-norderstedt,53.6969,10.002,16,68,63,Sun Jun  3 18:03:56 2018
+Konya,TR,/v2/networks/nextbike-konya,nextbike-konya,37.8715,32.4957,29,228,113,Sun Jun  3 18:03:56 2018
+Traisen-Gölsental,AT,/v2/networks/nextbike-traisen-golsental,nextbike-traisen-golsental,47.9439,15.639,9,0,28,Sun Jun  3 18:03:56 2018
+Laa an der Thaya,AT,/v2/networks/nextbike-laa-an-der-thaya,nextbike-laa-an-der-thaya,48.7196,16.3878,2,0,8,Sun Jun  3 18:03:56 2018
+Südheide,AT,/v2/networks/nextbike-sudheide,nextbike-sudheide,48.1077,16.3937,8,0,30,Sun Jun  3 18:03:56 2018
+Christchurch,NZ,/v2/networks/nextbike-christchurch,nextbike-christchurch,-43.5341,172.621,7,22,32,Sun Jun  3 18:03:56 2018
+Limassol,CY,/v2/networks/nextbike-limassol,nextbike-limassol,34.6823,33.0464,26,139,99,Sun Jun  3 18:03:56 2018
+Gütersloh,DE,/v2/networks/nextbike-gutersloh,nextbike-gutersloh,51.9049,8.39275,6,0,13,Sun Jun  3 18:03:56 2018
+Tullnerfeld West,AT,/v2/networks/nextbike-tullnerfeld-west,nextbike-tullnerfeld-west,48.2994,15.9065,2,0,9,Sun Jun  3 18:03:56 2018
+Hollabrunn,AT,/v2/networks/nextbike-hollabrunn,nextbike-hollabrunn,48.562,16.0785,3,0,12,Sun Jun  3 18:03:56 2018
+WienerWald,AT,/v2/networks/nextbike-wienerwald,nextbike-wienerwald,48.1926,16.141,7,0,26,Sun Jun  3 18:03:56 2018
+Dobrich,BG,/v2/networks/nextbike-dobrich,nextbike-dobrich,43.567,27.8285,5,6,22,Sun Jun  3 18:03:56 2018
+Dubai,AE,/v2/networks/bykystations-uae-dubai,bykystations-uae-dubai,25.2435,55.2722,2,4,2,Sun Jun  3 18:03:56 2018
+Zagreb,HR,/v2/networks/nextbike-zagreb,nextbike-zagreb,45.7988,15.9643,20,95,59,Sun Jun  3 18:03:56 2018
+Berlin,DE,/v2/networks/nextbike-berlin,nextbike-berlin,52.5087,13.3563,180,1847,347,Sun Jun  3 18:03:56 2018
+Glasgow,GB,/v2/networks/nextbike-glasgow,nextbike-glasgow,55.8589,-4.25549,43,70,0,Sun Jun  3 18:03:56 2018
+Belfast,GB,/v2/networks/belfastbikes-belfast,belfastbikes-belfast,54.5969,-5.929180000000001,40,436,98,Sun Jun  3 18:03:56 2018
+Stirling,GB,/v2/networks/nextbike-stirling,nextbike-stirling,56.1165,-3.9369,23,117,76,Sun Jun  3 18:03:56 2018
+Pittsburgh,US,/v2/networks/healthy-ride-pittsburgh-pittsburgh,healthy-ride-pittsburgh-pittsburgh,40.4459,-79.9945,50,507,342,Sun Jun  3 18:03:56 2018
+Quickborn,DE,/v2/networks/nextbike-quickborn,nextbike-quickborn,53.7333,9.90272,2,7,10,Sun Jun  3 18:03:56 2018
+Hoboken,US,/v2/networks/hudsonbikeshare-hoboken,hudsonbikeshare-hoboken,40.7447,-74.0341,32,228,215,Sun Jun  3 18:03:56 2018
+Bath,GB,/v2/networks/nextbike-bath,nextbike-bath,51.1742,-2.50841,15,77,44,Sun Jun  3 18:03:56 2018
+Würzburg,DE,/v2/networks/nextbike-wurzburg,nextbike-wurzburg,49.8,9.93333,17,19,62,Sun Jun  3 18:03:56 2018
+Serfaus,AT,/v2/networks/nextbike-serfaus,nextbike-serfaus,47.0387,10.604800000000001,3,16,12,Sun Jun  3 18:03:56 2018
+Offenbach am Main,DE,/v2/networks/nextbike-offenbach-am-main,nextbike-offenbach-am-main,50.1093,8.73825,1,0,0,Sun Jun  3 18:03:56 2018
+Auckland,NZ,/v2/networks/nextbike-auckland,nextbike-auckland,-36.8603,174.763,2,1,8,Sun Jun  3 18:03:56 2018
+Magdeburg,DE,/v2/networks/nextbike-magdeburg,nextbike-magdeburg,52.1268,11.6342,19,0,19,Sun Jun  3 18:03:56 2018
+Hamburg,DE,/v2/networks/nextbike-hamburg,nextbike-hamburg,53.5506,9.99052,50,0,111,Sun Jun  3 18:03:56 2018
+Düsseldorf,DE,/v2/networks/nextbike-dusseldorf,nextbike-dusseldorf,51.2243,6.7720400000000005,61,0,121,Sun Jun  3 18:03:56 2018
+Mödling,AT,/v2/networks/nextbike-modling,nextbike-modling,48.1047,16.3202,38,0,109,Sun Jun  3 18:03:56 2018
+Frankfurt,DE,/v2/networks/nextbike-frankfurt,nextbike-frankfurt,50.1072,8.66375,70,13,181,Sun Jun  3 18:03:56 2018
+Sursee,CH,/v2/networks/nextbike-sursee,nextbike-sursee,47.1713,8.10877,12,0,34,Sun Jun  3 18:03:56 2018
+Siena,IT,/v2/networks/bicincitta-siena,bicincitta-siena,43.3186,11.3306,18,53,41,Sun Jun  3 18:03:56 2018
+Bydgoszcz,PL,/v2/networks/bikeu-bra,bikeu-bra,53.12193,18.00038,53,427,368,Sun Jun  3 18:03:56 2018
+Parco dei Colli di Bergamo,IT,/v2/networks/bicincitta-parco-dei-colli-di-bergamo,bicincitta-parco-dei-colli-di-bergamo,45.72295637032245,9.649230073016383,1,0,0,Sun Jun  3 18:03:56 2018
+Assemini,IT,/v2/networks/bicincitta-assemini,bicincitta-assemini,39.28956306007679,9.006601555294765,5,26,0,Sun Jun  3 18:03:56 2018
+Mantova,IT,/v2/networks/bicincitta-mantova,bicincitta-mantova,45.15866370764634,10.783718973016335,8,47,42,Sun Jun  3 18:03:56 2018
+Tortolì,IT,/v2/networks/bicincitta-tortoli,bicincitta-tortoli,39.92664489852196,9.654953570777934,2,0,0,Sun Jun  3 18:03:56 2018
+Gaeta,IT,/v2/networks/bicincitta-gaeta,bicincitta-gaeta,41.209620965538036,13.584335125656139,4,11,18,Sun Jun  3 18:03:56 2018
+Borgarello,IT,/v2/networks/bicincitta-borgarello,bicincitta-borgarello,45.23963753440171,9.136150475640875,3,9,0,Sun Jun  3 18:03:56 2018
+Carrara,IT,/v2/networks/bicincitta-carrara,bicincitta-carrara,44.07731805550891,10.097172450401331,3,41,17,Sun Jun  3 18:03:56 2018
+Montecatini Terme,IT,/v2/networks/bicincitta-montecatini-terme,bicincitta-montecatini-terme,43.88362791665083,10.764385656591799,11,77,16,Sun Jun  3 18:03:56 2018
+Cernobbio,IT,/v2/networks/bicincitta-cernobbio,bicincitta-cernobbio,45.83745947067494,9.073591857810925,1,7,3,Sun Jun  3 18:03:56 2018
+Maroussi,GR,/v2/networks/cyclopolis-nafplio,cyclopolis-nafplio,37.5639397319,22.8093402872,4,13,28,Sun Jun  3 18:03:56 2018
+Maroussi,GR,/v2/networks/cyclopolis-maroussi,cyclopolis-maroussi,38.0568722388,23.8083299536,6,0,0,Sun Jun  3 18:03:56 2018
+Maroussi,GR,/v2/networks/cyclopolis-aigialeia,cyclopolis-aigialeia,38.2511101325,22.0821570196,3,0,48,Sun Jun  3 18:03:56 2018
+Marathon,GR,/v2/networks/cyclopolis-marathon,cyclopolis-marathon,38.0855680022,23.9776389963,4,0,0,Sun Jun  3 18:03:56 2018
+Αrxaia Olympia,GR,/v2/networks/cyclopolis-arxaiaolympia,cyclopolis-arxaiaolympia,37.6419700934,21.6247265179,4,0,0,Sun Jun  3 18:03:56 2018
+Νea Smyrni,GR,/v2/networks/cyclopolis-neasmyrni,cyclopolis-neasmyrni,37.9381,23.7126,3,0,0,Sun Jun  3 18:03:56 2018
+Μoschato-Tavros,GR,/v2/networks/cyclopolis-moschatotavros,cyclopolis-moschatotavros,37.9538991434,23.6824746661,5,11,12,Sun Jun  3 18:03:56 2018
+Kιato,GR,/v2/networks/cyclopolis-kiato,cyclopolis-kiato,38.0132674508,22.7493819902,4,0,0,Sun Jun  3 18:03:56 2018
+Rhodes,GR,/v2/networks/cyclopolis-rhodes,cyclopolis-rhodes,36.4509118,28.2246966,5,27,30,Sun Jun  3 18:03:56 2018
+Limnos,GR,/v2/networks/cyclopolis-limnos,cyclopolis-limnos,39.8747861,25.0586722,4,17,25,Sun Jun  3 18:03:56 2018
+Florina,GR,/v2/networks/cyclopolis-florina,cyclopolis-florina,40.8016111,21.4245222,8,21,23,Sun Jun  3 18:03:56 2018
+"El Paso, TX",US,/v2/networks/elpaso,elpaso,31.76148,-106.48507,16,92,111,Sun Jun  3 18:03:56 2018
+Dublin,IE,/v2/networks/dublinbikes,dublinbikes,53.3498053,-6.2603097,108,1971,1340,Sun Jun  3 18:03:56 2018
+"Battle Creek, MI",US,/v2/networks/battlecreek,battlecreek,42.32423,-85.18833,4,23,5,Sun Jun  3 18:03:56 2018
+"Dayton, OH",US,/v2/networks/linkdayton,linkdayton,39.75626,-84.21119,27,178,183,Sun Jun  3 18:03:56 2018
+"Philadelphia, PA",US,/v2/networks/indego,indego,39.95378,-75.16374,123,1375,971,Sun Jun  3 18:03:56 2018
+Brescia,IT,/v2/networks/bicimia,bicimia,45.5398382,10.2229562,77,466,254,Sun Jun  3 18:03:56 2018
+Bangkok,TH,/v2/networks/punpunbikeshare,punpunbikeshare,13.75,100.516667,50,261,139,Sun Jun  3 18:03:56 2018
+Clermont-Ferrand,FR,/v2/networks/c-velo,c-velo,45.770958,3.073871,39,437,423,Sun Jun  3 18:03:56 2018
+Saint-Étienne,FR,/v2/networks/velivert,velivert,45.396667,4.290833,29,345,255,Sun Jun  3 18:03:56 2018
+Avignon,FR,/v2/networks/velopop,velopop,43.943689,4.805833,18,213,167,Sun Jun  3 18:03:56 2018
+Batumi,GE,/v2/networks/batumvelo,batumvelo,41.660906,41.678835,22,385,79,Sun Jun  3 18:03:56 2018
+Valence,FR,/v2/networks/libelo,libelo,44.922726,4.905634,20,157,159,Sun Jun  3 18:03:56 2018
+Cluj-Napoca,RO,/v2/networks/clujbike,clujbike,46.775,23.5975,50,525,457,Sun Jun  3 18:03:56 2018
+Abu Dhabi,AE,/v2/networks/adcb-bikeshare,adcb-bikeshare,24.450278,54.39,50,359,265,Sun Jun  3 18:03:56 2018
+Montevideo,UY,/v2/networks/movete,movete,-34.9011127,-56.164531399,8,87,56,Sun Jun  3 18:03:56 2018
+Ferrara,IT,/v2/networks/mimuovofe,mimuovofe,44.8350382,11.6240562,8,13,2,Sun Jun  3 18:03:56 2018
+Altea,ES,/v2/networks/bicialtea,bicialtea,38.6029075,-0.0450666,12,206,0,Sun Jun  3 18:03:56 2018
+Benidorm,ES,/v2/networks/bicidorm,bicidorm,38.5410566,-0.1224937,23,322,40,Sun Jun  3 18:03:56 2018
+Gandía,ES,/v2/networks/saforbici,saforbici,38.968032,-0.1844671,45,626,234,Sun Jun  3 18:03:56 2018
+Getafe,ES,/v2/networks/gbici,gbici,40.3082504,-3.7323934,18,116,84,Sun Jun  3 18:03:56 2018
+Murcia,ES,/v2/networks/muybici,muybici,37.9922399,-1.1306544,59,854,278,Sun Jun  3 18:03:56 2018
+Ponferrada,ES,/v2/networks/ponfemobi,ponfemobi,42.5499958,-6.598259000000001,29,388,30,Sun Jun  3 18:03:56 2018
+Cork,IE,/v2/networks/cork,cork,51.893604,-8.494174,31,253,282,Sun Jun  3 18:03:56 2018
+Galway,IE,/v2/networks/galway,galway,53.2783491544,-9.05069143207,23,306,163,Sun Jun  3 18:03:56 2018
+新北市 New Taipei,TW,/v2/networks/youbike-new-taipei,youbike-new-taipei,25.0169826,121.4627868,419,10623,6093,Sun Jun  3 18:03:56 2018
+台北市 Taipei City,TW,/v2/networks/youbike-taipei,youbike-taipei,25.0329636,121.5654268,398,9579,6186,Sun Jun  3 18:03:56 2018
+桃園市 Taoyuan City,TW,/v2/networks/youbike-taoyuan,youbike-taoyuan,24.9936281,121.3009798,175,3931,3047,Sun Jun  3 18:03:56 2018
+臺中市 Taichung City,TW,/v2/networks/youbike-taichung,youbike-taichung,24.1477358,120.6736482,222,4853,3948,Sun Jun  3 18:03:56 2018
+彰化 Changhua County,TW,/v2/networks/youbike-changhua,youbike-changhua,24.0517963,120.5161352,68,2256,1135,Sun Jun  3 18:03:56 2018
+Slough,GB,/v2/networks/cycle-hire-slough,cycle-hire-slough,51.51135,-0.5915619999999999,11,119,53,Sun Jun  3 18:03:56 2018
+Rosario,AR,/v2/networks/mibicitubici,mibicitubici,-32.95,-60.65,18,297,59,Sun Jun  3 18:03:56 2018
+Helsinki,FI,/v2/networks/citybikes-helsinki,citybikes-helsinki,60.16985569999999,24.938379,220,2656,1948,Sun Jun  3 18:03:56 2018
+Glyfada,GR,/v2/networks/easybike-glyfada,easybike-glyfada,37.8715809825,23.7355544376,2,2,5,Sun Jun  3 18:03:56 2018
+Igoumenitsa,GR,/v2/networks/easybike-igoumenitsa,easybike-igoumenitsa,39.5005770633,20.2635206985,2,0,2,Sun Jun  3 18:03:56 2018
+Kinouria,GR,/v2/networks/easybike-kinouria,easybike-kinouria,37.1476704305,22.8933729935,2,0,3,Sun Jun  3 18:03:56 2018
+Patra,GR,/v2/networks/easybike-patra,easybike-patra,38.2410966371,21.7259683418,11,5,11,Sun Jun  3 18:03:56 2018
+Rethymno,GR,/v2/networks/easybike-rethymno,easybike-rethymno,35.3667571777,24.4832845736,4,3,5,Sun Jun  3 18:03:56 2018
+Samos,GR,/v2/networks/easybike-samos,easybike-samos,37.754065919,26.9787850189,4,8,21,Sun Jun  3 18:03:56 2018
+Lund,SE,/v2/networks/lundahoj,lundahoj,55.7046601,13.1910073,16,201,183,Sun Jun  3 18:03:56 2018
+Malmö,SE,/v2/networks/malmobybike,malmobybike,55.605,13.0038,50,690,463,Sun Jun  3 18:03:56 2018
+Madrid,ES,/v2/networks/bicimad,bicimad,40.4168,-3.7038,172,2238,1642,Sun Jun  3 18:03:56 2018
+London,GB,/v2/networks/santander-cycles,santander-cycles,51.51121389999999,-0.1198244,781,11414,9056,Sun Jun  3 18:03:56 2018
+Utrecht,NL,/v2/networks/nu-connect,nu-connect,52.117,5.067,8,0,10,Sun Jun  3 18:03:56 2018
+Stavanger,NO,/v2/networks/bysykkelen,bysykkelen,58.969975,5.733107,46,0,64,Sun Jun  3 18:03:56 2018
+Brisbane,AU,/v2/networks/citycycle,citycycle,-27.4710107,153.0234489,151,1344,1744,Sun Jun  3 18:03:56 2018
+Antalya,TR,/v2/networks/baksi-antalya,baksi-antalya,36.862048,30.638866,6,17,27,Sun Jun  3 18:03:56 2018
+Izmir,TR,/v2/networks/baksi-bisim,baksi-bisim,38.4134047464,27.0325753524,34,341,366,Sun Jun  3 18:03:56 2018
+Istanbul,TR,/v2/networks/baksi-istanbul,baksi-istanbul,40.9696887925,29.0475373717,88,98,1223,Sun Jun  3 18:03:56 2018
+Kocaeli,TR,/v2/networks/baksi-kobis,baksi-kobis,40.7674733342,29.9755885985,34,133,299,Sun Jun  3 18:03:56 2018
+West Palm Beach Florida,US,/v2/networks/skybike-west-palm-beach-west-palm-beach-florida,skybike-west-palm-beach-west-palm-beach-florida,26.7125,-80.0821,18,124,89,Sun Jun  3 18:03:56 2018
+Limerick,IE,/v2/networks/limerick,limerick,52.668746,-8.627809,23,171,149,Sun Jun  3 18:03:56 2018
+Pizzighettone e Formigara,IT,/v2/networks/bicincitta-pizzighettone-formigara,bicincitta-pizzighettone-formigara,45.186748819167434,9.778087948479424,2,0,0,Sun Jun  3 18:03:56 2018
+Cernusco sul Naviglio - Pioltello - Carugate,IT,/v2/networks/meglio-in-bici,meglio-in-bici,45.520541,9.341984,8,41,40,Sun Jun  3 18:03:56 2018
+Vancouver,CA,/v2/networks/mobibikes,mobibikes,49.2827,-123.1207,150,1477,1429,Sun Jun  3 18:03:56 2018
+"Curtin University, Perth, WA",AU,/v2/networks/curtin-bike-share,curtin-bike-share,-32.0034172153127,115.89431270956993,9,49,0,Sun Jun  3 18:03:56 2018
+"Melbourne, AU",AU,/v2/networks/monash-bikeshare,monash-bikeshare,-37.91238410208696,145.1362281292677,60,511,31,Sun Jun  3 18:03:56 2018
+"Ann Arbor, MI",US,/v2/networks/arborbike,arborbike,42.27853,-83.74536,13,140,12,Sun Jun  3 18:03:56 2018
+"Toronto, ON",CA,/v2/networks/bixi-toronto,bixi-toronto,43.653226,-79.3831843,268,2669,1845,Sun Jun  3 18:03:56 2018
+"Hamilton, ON",CA,/v2/networks/sobi-hamilton,sobi-hamilton,43.25643601915583,-79.86929655075073,132,778,531,Sun Jun  3 18:03:56 2018
+"Ottawa, ON",CA,/v2/networks/velogo,velogo,45.4285325522342,-75.6970576741095,4,21,0,Sun Jun  3 18:03:56 2018
+"Portland, OR",US,/v2/networks/biketown,biketown,45.52175423291714,-122.68107935786247,143,1581,636,Sun Jun  3 18:03:56 2018
+"San Ramon, CA",US,/v2/networks/britebikes,britebikes,37.759444753878,-121.955134881881,17,74,51,Sun Jun  3 18:03:56 2018
+"Boise, ID",US,/v2/networks/boise-greenbike,boise-greenbike,43.6153060610528,-116.201761349309,82,431,93,Sun Jun  3 18:03:56 2018
+"Santa Monica, CA",US,/v2/networks/breeze-bike-share,breeze-bike-share,34.01780925008178,-118.4965717792511,143,841,654,Sun Jun  3 18:03:56 2018
+"Buffalo, NY",US,/v2/networks/reddy-bike-share,reddy-bike-share,42.89373841865211,-78.8718044757843,53,148,141,Sun Jun  3 18:03:56 2018
+"Washington, DC",US,/v2/networks/capital-bikeshare,capital-bikeshare,38.8967584,-77.03701629999999,506,4661,3877,Sun Jun  3 18:03:56 2018
+"New York, NY",US,/v2/networks/citi-bike-nyc,citi-bike-nyc,40.7143528,-74.00597309999999,796,14114,9020,Sun Jun  3 18:03:56 2018
+"Cincinnati, OH",US,/v2/networks/cincy-red-bike,cincy-red-bike,39.10138,-84.51217,57,497,343,Sun Jun  3 18:03:56 2018
+"Tampa, FL",US,/v2/networks/coast-bike-share,coast-bike-share,27.9627193250593,-82.438056400783,229,1131,510,Sun Jun  3 18:03:56 2018
+"Columbus, OH",US,/v2/networks/cogo,cogo,39.983333,-82.983333,46,380,292,Sun Jun  3 18:03:56 2018
+"Chicago, IL",US,/v2/networks/divvy,divvy,41.8781136,-87.6297982,572,5796,4028,Sun Jun  3 18:03:56 2018
+"Phoenix, AZ",US,/v2/networks/grid-bike-share,grid-bike-share,33.4591031356657,-112.074010667085,113,636,613,Sun Jun  3 18:03:56 2018
+"Boston, MA",US,/v2/networks/hubway,hubway,42.3584308,-71.0597732,193,1758,1253,Sun Jun  3 18:03:56 2018
+"Orlando, FL",US,/v2/networks/juice-bike-share,juice-bike-share,28.536663311743688,-81.37922197580338,38,197,137,Sun Jun  3 18:03:56 2018
+"Los Angeles, CA",US,/v2/networks/metro-bike-share,metro-bike-share,34.04855,-118.25905,118,1305,1169,Sun Jun  3 18:03:56 2018
+"Ketchum / Sun Valley, ID",US,/v2/networks/mountain-rides-bike-share,mountain-rides-bike-share,43.5194695168239,-114.317415758737,51,49,0,Sun Jun  3 18:03:56 2018
+"Minneapolis, MN",US,/v2/networks/nice-ride,nice-ride,44.983334,-93.26666999999999,200,2050,1513,Sun Jun  3 18:03:56 2018
+"University of South Florida, FL",US,/v2/networks/share-a-bull-bikes,share-a-bull-bikes,28.060548696070995,-82.4076198041439,34,242,0,Sun Jun  3 18:03:56 2018
+"Long Beach, NY",US,/v2/networks/sobi-long-beach,sobi-long-beach,40.5833058203002,-73.6482682794673,11,106,82,Sun Jun  3 18:03:56 2018
+"Topeka, KS",US,/v2/networks/topeka-metro-bikes,topeka-metro-bikes,39.0337646098385,-95.7027213202284,154,562,92,Sun Jun  3 18:03:56 2018
+"University of Virginia, VA",US,/v2/networks/ubike,ubike,38.0357625021372,-78.5072994363201,21,135,81,Sun Jun  3 18:03:56 2018
+Ferrol - Narón,ES,/v2/networks/bici-ferrol-terra,bici-ferrol-terra,43.4896,-8.2193,18,121,75,Sun Jun  3 18:03:56 2018
+São Lourenço,BR,/v2/networks/rivibike,rivibike,-22.1124,-45.028,7,40,41,Sun Jun  3 18:03:56 2018
+Bilbao,ES,/v2/networks/bilbon-bizi,bilbon-bizi,43.2627707,-2.9371822,31,338,179,Sun Jun  3 18:03:56 2018
+"Atlanta, GA",US,/v2/networks/relay-atlanta,relay-atlanta,33.7627941119619,-84.38727110624313,114,599,227,Sun Jun  3 18:03:56 2018
+Lausanne - Morges - Campus,CH,/v2/networks/bicincitta-lausanne-campus-morges,bicincitta-lausanne-campus-morges,46.5196535,6.6322734,23,0,0,Sun Jun  3 18:03:56 2018
+Mezzolombardo,IT,/v2/networks/bicincitta-mezzolombardo,bicincitta-mezzolombardo,46.21400260000001,11.0967867,3,13,5,Sun Jun  3 18:03:56 2018
+Livorno,IT,/v2/networks/bicincitta-livorno,bicincitta-livorno,43.548473,10.3105674,9,34,30,Sun Jun  3 18:03:56 2018
+Scafati,IT,/v2/networks/bicincitta-scafati,bicincitta-scafati,40.7620174,14.5363969,3,0,0,Sun Jun  3 18:03:56 2018
+Rivarolo Canavese,IT,/v2/networks/bicincitta-rivarolo-canavese,bicincitta-rivarolo-canavese,45.306633,7.723242,3,7,5,Sun Jun  3 18:03:56 2018
+Mezzocorona,IT,/v2/networks/bicincitta-mezzocorona,bicincitta-mezzocorona,46.2339047,11.1277461,3,31,11,Sun Jun  3 18:03:56 2018
+Forlì,IT,/v2/networks/bicincitta-forli,bicincitta-forli,44.2227398,12.0407312,11,84,59,Sun Jun  3 18:03:56 2018
+Monserrato,IT,/v2/networks/bicincitta-monserrato,bicincitta-monserrato,39.2560191,9.1453579,2,9,0,Sun Jun  3 18:03:56 2018
+San Lazzaro di Savena,IT,/v2/networks/bicincitta-san-lazzaro-di-savena,bicincitta-san-lazzaro-di-savena,44.4702725,11.409399,2,0,0,Sun Jun  3 18:03:56 2018
+Parco Naturale Molentargius - Saline,IT,/v2/networks/bicincitta-parco-molentargius-saline,bicincitta-parco-molentargius-saline,39.2052545,9.146761099999999,3,0,0,Sun Jun  3 18:03:56 2018
+Castel Guelfo di Bologna,IT,/v2/networks/bicincitta-castel-guelfo-the-style-outlets,bicincitta-castel-guelfo-the-style-outlets,44.4328527,11.6750857,1,0,9,Sun Jun  3 18:03:56 2018
+San Michele All'adige,IT,/v2/networks/bicincitta-san-michele-alladige,bicincitta-san-michele-alladige,46.1878653,11.1330423,2,15,9,Sun Jun  3 18:03:56 2018
+Gallipoli,IT,/v2/networks/bicincitta-gallipoli,bicincitta-gallipoli,40.0558554,17.9925085,1,0,0,Sun Jun  3 18:03:56 2018
+Fribourg,CH,/v2/networks/bicincitta-agglo-fribourg,bicincitta-agglo-fribourg,46.8064773,7.161971899999999,9,12,6,Sun Jun  3 18:03:56 2018
+Modena,IT,/v2/networks/bicincitta-modena,bicincitta-modena,44.647128,10.9252269,3,0,0,Sun Jun  3 18:03:56 2018
+Bulle,CH,/v2/networks/bicincitta-bulle,bicincitta-bulle,46.6154512,7.057726799999999,2,0,0,Sun Jun  3 18:03:56 2018
+Distretto della Riviera-Pays-d'Enhaut,CH,/v2/networks/bicincitta-riviera,bicincitta-riviera,46.4628333,6.8419191999999995,5,0,0,Sun Jun  3 18:03:56 2018
+Brancaleone,IT,/v2/networks/bicincitta-brancaleone,bicincitta-brancaleone,37.9679084,16.0757749,5,0,0,Sun Jun  3 18:03:56 2018
+Scandiano,IT,/v2/networks/bicincitta-scandiano,bicincitta-scandiano,44.5982342,10.6909273,5,0,0,Sun Jun  3 18:03:56 2018
+TV,ME,/v2/networks/bicincitta-tivat,bicincitta-tivat,42.4349809,18.7066398,6,0,0,Sun Jun  3 18:03:56 2018
+Elmas,IT,/v2/networks/bicincitta-elmas,bicincitta-elmas,39.2634329,9.0515805,2,0,0,Sun Jun  3 18:03:56 2018
+Vicolungo,IT,/v2/networks/bicincitta-vicolungo-the-style-outlets,bicincitta-vicolungo-the-style-outlets,45.47167229999999,8.4633922,1,4,7,Sun Jun  3 18:03:56 2018
+Acquaviva delle fonti,IT,/v2/networks/bicincitta-acquaviva-delle-fonti,bicincitta-acquaviva-delle-fonti,40.9303721,16.8414374,6,0,0,Sun Jun  3 18:03:56 2018
+Acquarica del Capo,IT,/v2/networks/bicincitta-acquarica-del-capo,bicincitta-acquarica-del-capo,39.9144573,18.2450324,4,0,0,Sun Jun  3 18:03:56 2018
+Porto Torres,IT,/v2/networks/bicincitta-porto-torres,bicincitta-porto-torres,40.8333682,8.402292899999999,1,18,1,Sun Jun  3 18:03:56 2018
+Cisterna di Latina,IT,/v2/networks/bicincitta-cisterna-di-latina,bicincitta-cisterna-di-latina,41.5754029,12.8284772,5,32,1,Sun Jun  3 18:03:56 2018
+Casaletto Spartano,IT,/v2/networks/bicincitta-casaletto-spartano,bicincitta-casaletto-spartano,40.1532801,15.6211479,2,0,0,Sun Jun  3 18:03:56 2018
+Selargius,IT,/v2/networks/bicincitta-selargius,bicincitta-selargius,39.2596768,9.1629372,2,9,0,Sun Jun  3 18:03:56 2018
+Yverdon-les-Bains,CH,/v2/networks/bicincitta-yverdon-les-bains,bicincitta-yverdon-les-bains,46.7784736,6.641183,8,0,0,Sun Jun  3 18:03:56 2018
+Monza,IT,/v2/networks/bicincitta-monza,bicincitta-monza,45.5845001,9.2744485,7,41,28,Sun Jun  3 18:03:56 2018
+Morigerati,IT,/v2/networks/bicincitta-morigerati,bicincitta-morigerati,40.1422031,15.5298525,2,0,0,Sun Jun  3 18:03:56 2018
+Nyon,CH,/v2/networks/bicincitta-la-cote,bicincitta-la-cote,46.3832683,6.2347852,13,0,0,Sun Jun  3 18:03:56 2018
+Monthey - Aigle,CH,/v2/networks/bicincitta-chablais,bicincitta-chablais,46.2521873,6.9469598,10,0,0,Sun Jun  3 18:03:56 2018
+Parco Nazionale del Circeo,IT,/v2/networks/bicincitta-ente-parco-del-circeo,bicincitta-ente-parco-del-circeo,41.3151015,13.0330782,4,9,12,Sun Jun  3 18:03:56 2018
+Cesena,IT,/v2/networks/bicincitta-cesena,bicincitta-cesena,44.1396438,12.2464292,5,19,36,Sun Jun  3 18:03:56 2018
+San Donato Milanese,IT,/v2/networks/bicincitta-san-donato-milanese,bicincitta-san-donato-milanese,45.4092402,9.2684867,11,50,35,Sun Jun  3 18:03:56 2018
+Paradiso,CH,/v2/networks/bicincitta-lugano-paradiso,bicincitta-lugano-paradiso,45.9907174,8.945261799999999,7,0,0,Sun Jun  3 18:03:56 2018
+Alghero,IT,/v2/networks/bicincitta-alghero,bicincitta-alghero,40.5579517,8.319294900000001,5,15,21,Sun Jun  3 18:03:56 2018
+San Giovanni in Persiceto,IT,/v2/networks/bicincitta-san-giovanni-in-persiceto,bicincitta-san-giovanni-in-persiceto,44.6405433,11.1893053,2,9,0,Sun Jun  3 18:03:56 2018
+Treviglio,IT,/v2/networks/bicincitta-treviglio,bicincitta-treviglio,45.5293372,9.591435899999999,2,0,0,Sun Jun  3 18:03:56 2018
+Parco naturale Migliarino San Rossore Massaciuccoli,IT,/v2/networks/bicincitta-ente-parco-san-rossore,bicincitta-ente-parco-san-rossore,43.723826,10.339509,5,5,0,Sun Jun  3 18:03:56 2018
+Lavis,IT,/v2/networks/bicincitta-lavis,bicincitta-lavis,46.1408423,11.1124935,3,10,17,Sun Jun  3 18:03:56 2018
+Ente Parco Montemarcello Magra,IT,/v2/networks/bicincitta-ente-parco-di-montemarcello-magra,bicincitta-ente-parco-di-montemarcello-magra,44.1143897,9.9635986,10,0,0,Sun Jun  3 18:03:56 2018
+Murten,CH,/v2/networks/bicincitta-les-lacs-romont,bicincitta-les-lacs-romont,46.92922110000001,7.120184,9,0,0,Sun Jun  3 18:03:56 2018
+Wrocław,PL,/v2/networks/wrm-wroclaw,wrm-wroclaw,51.1097,17.0485,76,640,285,Sun Jun  3 18:03:56 2018
+Poznań,PL,/v2/networks/prm-poznan,prm-poznan,52.4077,16.9323,109,855,920,Sun Jun  3 18:03:56 2018
+Opole,PL,/v2/networks/opole-bike-opole,opole-bike-opole,50.6633,17.9239,18,103,88,Sun Jun  3 18:03:56 2018
+Warszawa,PL,/v2/networks/veturilo-warszawa,veturilo-warszawa,52.2265,21.0127,326,3653,3673,Sun Jun  3 18:03:56 2018
+Białystok,PL,/v2/networks/biker-bialystok-bialystok,biker-bialystok-bialystok,53.1342,23.1485,57,410,491,Sun Jun  3 18:03:56 2018
+Konstancin Jeziorna,PL,/v2/networks/krm-konstancinski-konstancin-jeziorna,krm-konstancinski-konstancin-jeziorna,52.0759,21.1161,6,8,30,Sun Jun  3 18:03:56 2018
+Stalowa Wola,PL,/v2/networks/stalowa-wola-miasto-rowerow-stalowa-wola,stalowa-wola-miasto-rowerow-stalowa-wola,50.57,22.0626,10,40,48,Sun Jun  3 18:03:56 2018
+Legnica,PL,/v2/networks/system-legnicki-rower-miejski-slrm-legnica,system-legnicki-rower-miejski-slrm-legnica,51.2059,16.1667,8,101,0,Sun Jun  3 18:03:56 2018
+Warszawa,PL,/v2/networks/veturilo-stacje-sponsorskie-nextbike-veturilo,veturilo-stacje-sponsorskie-nextbike-veturilo,52.2265,21.0127,30,383,182,Sun Jun  3 18:03:56 2018
+Radom,PL,/v2/networks/radomski-rower-miejski-stacje-sponsorskie-radom,radomski-rower-miejski-stacje-sponsorskie-radom,51.3994,21.1655,2,17,7,Sun Jun  3 18:03:56 2018
+Pszczyna,PL,/v2/networks/system-rowerow-miejskich-w-pszczynie-pszczyna,system-rowerow-miejskich-w-pszczynie-pszczyna,49.9757,18.9463,8,35,39,Sun Jun  3 18:03:56 2018
+Kalisz,PL,/v2/networks/kaliski-rower-miejski-kalisz,kaliski-rower-miejski-kalisz,51.7608,18.0746,20,80,86,Sun Jun  3 18:03:56 2018
+"Chattanooga, TN",US,/v2/networks/bike-chattanooga,bike-chattanooga,35.0456297,-85.3096801,38,319,307,Sun Jun  3 18:03:56 2018
+Nürnberg,DE,/v2/networks/norisbike-nurnberg,norisbike-nurnberg,49.4479,11.0814,63,349,219,Sun Jun  3 18:03:56 2018
+Neusiedler See,AT,/v2/networks/burgenland-neusiedler-see,burgenland-neusiedler-see,47.839,16.761,39,0,151,Sun Jun  3 18:03:56 2018
+Karlsruhe,DE,/v2/networks/facherrad-karlsruhe,facherrad-karlsruhe,49.0102,8.41827,42,15,32,Sun Jun  3 18:03:56 2018
+Dresden,DE,/v2/networks/sz-bike-dresden,sz-bike-dresden,51.0535,13.7387,138,40,234,Sun Jun  3 18:03:56 2018
+St.Pölten,AT,/v2/networks/nextbike-stpolten,nextbike-stpolten,48.2058,15.6232,24,0,61,Sun Jun  3 18:03:56 2018
+Dortmund,DE,/v2/networks/metropolradruhr-dortmund,metropolradruhr-dortmund,51.5141,7.46255,66,384,197,Sun Jun  3 18:03:56 2018
+Rīga,LV,/v2/networks/sixt-riga,sixt-riga,56.9453,24.1033,26,116,65,Sun Jun  3 18:03:56 2018
+Essen,DE,/v2/networks/metropolradruhr-essen,metropolradruhr-essen,51.4425,7.02301,61,316,129,Sun Jun  3 18:03:56 2018
+Hamm,DE,/v2/networks/metropolradruhr-hamm,metropolradruhr-hamm,51.6775,7.8483600000000004,7,24,21,Sun Jun  3 18:03:56 2018
+Jūrmala,LV,/v2/networks/sixt-jurmala,sixt-jurmala,56.9732,23.8225,4,24,13,Sun Jun  3 18:03:56 2018
+Wr.Neustadt,AT,/v2/networks/nextbike-wrneustadt,nextbike-wrneustadt,47.8167,16.2426,12,0,42,Sun Jun  3 18:03:56 2018
+Haag,AT,/v2/networks/nextbike-haag,nextbike-haag,48.0643,14.7368,0,0,0,Sun Jun  3 18:03:56 2018
+Usedom,DE,/v2/networks/usedomrad-usedom,usedomrad-usedom,53.9779,13.9925,121,300,508,Sun Jun  3 18:03:56 2018
+Augsburg,DE,/v2/networks/swa-rad-augsburg,swa-rad-augsburg,48.3647,10.8916,31,1,137,Sun Jun  3 18:03:56 2018
+Lunz am See,AT,/v2/networks/nextbike-lunz-am-see,nextbike-lunz-am-see,47.8618,15.0348,3,0,13,Sun Jun  3 18:03:56 2018
+Heidelberg,DE,/v2/networks/vrn-heidelberg,vrn-heidelberg,49.4023,8.67577,33,147,153,Sun Jun  3 18:03:56 2018
+Mannheim,DE,/v2/networks/vrn-mannheim,vrn-mannheim,49.4869,8.45638,42,273,85,Sun Jun  3 18:03:56 2018
+Innsbruck,AT,/v2/networks/stadtrad-innsbruck,stadtrad-innsbruck,47.2632,11.3961,41,273,164,Sun Jun  3 18:03:56 2018
+Bietigheim-Bissingen,DE,/v2/networks/ebikestation-bietigheim-bissingen,ebikestation-bietigheim-bissingen,48.9495,9.12518,1,9,1,Sun Jun  3 18:03:56 2018
+Šibenik,HR,/v2/networks/grad-sibenik-sibenik,grad-sibenik-sibenik,43.733,15.8982,7,31,17,Sun Jun  3 18:03:56 2018
+Seferihisar,TR,/v2/networks/karbis-seferihisar,karbis-seferihisar,38.1962,26.8386,4,49,2,Sun Jun  3 18:03:56 2018
+Schwieberdingen,DE,/v2/networks/ebikestation-schwieberdingen,ebikestation-schwieberdingen,48.8723,9.07419,2,10,1,Sun Jun  3 18:03:56 2018
+King Abdullah Economic City,SA,/v2/networks/ibike-king-abdullah-economic-city,ibike-king-abdullah-economic-city,22.4053,39.0815,9,66,45,Sun Jun  3 18:03:56 2018
+Ludwigshafen,DE,/v2/networks/vrn-ludwigshafen,vrn-ludwigshafen,49.4741,8.43287,13,119,15,Sun Jun  3 18:03:56 2018
+Waiblingen,DE,/v2/networks/ebikestation-waiblingen,ebikestation-waiblingen,48.8333,9.31667,1,10,0,Sun Jun  3 18:03:56 2018
+University of Warwick,GB,/v2/networks/nextbike-university-of-warwick,nextbike-university-of-warwick,52.3815,-1.56159,16,64,39,Sun Jun  3 18:03:56 2018
+Speyer,DE,/v2/networks/vrn-speyer,vrn-speyer,49.3126,8.45295,8,39,33,Sun Jun  3 18:03:56 2018
+Lviv,UA,/v2/networks/nextbike-lviv,nextbike-lviv,49.8402,24.0182,24,93,88,Sun Jun  3 18:03:56 2018
+Vaihingen an der Enz,DE,/v2/networks/ebikestation-vaihingen-an-der-enz,ebikestation-vaihingen-an-der-enz,48.9334,8.96121,1,10,2,Sun Jun  3 18:03:56 2018
+Herrenberg,DE,/v2/networks/ebikestation-herrenberg,ebikestation-herrenberg,48.595,8.86716,1,8,4,Sun Jun  3 18:03:56 2018
+Göppingen,DE,/v2/networks/ebikestation-goppingen,ebikestation-goppingen,48.7054,9.651250000000001,1,10,0,Sun Jun  3 18:03:56 2018
+Ludwigsburg,DE,/v2/networks/ebikestation-ludwigsburg,ebikestation-ludwigsburg,48.8941,9.19546,1,13,2,Sun Jun  3 18:03:56 2018
+Gospić,HR,/v2/networks/grad-gospic-gospic,grad-gospic-gospic,44.5469,15.375,2,4,9,Sun Jun  3 18:03:56 2018
+Kirchheim am Neckar,DE,/v2/networks/ebikestation-kirchheim-am-neckar,ebikestation-kirchheim-am-neckar,49.04,9.14441,1,8,4,Sun Jun  3 18:03:56 2018
+Karlovac,HR,/v2/networks/grad-karlovac-karlovac,grad-karlovac-karlovac,45.4905,15.5503,3,6,12,Sun Jun  3 18:03:56 2018
+Kent State University,US,/v2/networks/flashfleet-kent-state-university-kent-state-university,flashfleet-kent-state-university-kent-state-university,41.1492,-81.3363,9,52,40,Sun Jun  3 18:03:56 2018
+Slavonski Brod,HR,/v2/networks/grad-slavonski-brod-slavonski-brod,grad-slavonski-brod-slavonski-brod,45.1656,18.0183,3,5,12,Sun Jun  3 18:03:56 2018
+Milton Keynes,GB,/v2/networks/santander-cycles-mk-milton-keynes,santander-cycles-mk-milton-keynes,52.0406,-0.759417,41,360,118,Sun Jun  3 18:03:56 2018
+Al Ain,AE,/v2/networks/bykystations-uae-al-ain,bykystations-uae-al-ain,24.2989,54.6979,2,17,13,Sun Jun  3 18:03:56 2018
+Hergiswil,CH,/v2/networks/nextbike-hergiswil,nextbike-hergiswil,46.9905,8.30829,10,0,27,Sun Jun  3 18:03:56 2018
+Makarska,HR,/v2/networks/grad-makarska-makarska,grad-makarska-makarska,43.2992,17.0184,2,1,7,Sun Jun  3 18:03:56 2018
+Brinje,HR,/v2/networks/opcina-brinje-brinje,opcina-brinje-brinje,44.9977,15.1258,2,8,7,Sun Jun  3 18:03:56 2018
+Zadar,HR,/v2/networks/grad-zadar-zadar,grad-zadar-zadar,44.0058,15.2183,4,11,15,Sun Jun  3 18:03:56 2018
+Lastovo,HR,/v2/networks/opcina-lastovo-lastovo,opcina-lastovo-lastovo,42.7626,16.8719,1,6,5,Sun Jun  3 18:03:56 2018
+Bensheim,DE,/v2/networks/vrn-bensheim,vrn-bensheim,49.6803,8.6189,10,39,41,Sun Jun  3 18:03:56 2018
+Ivanic Grad,HR,/v2/networks/grad-ivanic-grad-ivanic-grad,grad-ivanic-grad-ivanic-grad,45.7062,16.3919,2,2,10,Sun Jun  3 18:03:56 2018
+Ordu,TR,/v2/networks/ordu-bisikletli-ordu,ordu-bisikletli-ordu,40.9702,37.8707,18,101,73,Sun Jun  3 18:03:56 2018
+Sarajevo,BA,/v2/networks/nextbike-sarajevo,nextbike-sarajevo,43.85,18.39,10,37,29,Sun Jun  3 18:03:56 2018
+Exeter,GB,/v2/networks/co-bikes-exeter,co-bikes-exeter,50.7272,-3.53605,7,22,15,Sun Jun  3 18:03:56 2018
+Auckland Waterfront,NZ,/v2/networks/nextbike-auckland-waterfront,nextbike-auckland-waterfront,-36.841,174.763,3,10,9,Sun Jun  3 18:03:56 2018
+Edinburgh,GB,/v2/networks/nextbike-edinburgh,nextbike-edinburgh,55.9526,-3.18902,7,5,0,Sun Jun  3 18:03:56 2018
+Aruba,AW,/v2/networks/nextbike-aruba,nextbike-aruba,12.5137,-69.9757,1,0,0,Sun Jun  3 18:03:56 2018
+Hyderabad,IN,/v2/networks/nextbike-hyderabad,nextbike-hyderabad,17.38,78.4725,1,0,5,Sun Jun  3 18:03:56 2018
+Tallinn,EE,/v2/networks/sixt-jalgrattarent-tallinn,sixt-jalgrattarent-tallinn,59.4325,24.7295,21,0,11,Sun Jun  3 18:03:56 2018
+Byblos,LB,/v2/networks/bike4all-byblos,bike4all-byblos,34.1236,35.6511,6,30,15,Sun Jun  3 18:03:56 2018
+Bhopal,IN,/v2/networks/chartered-bike-bhopal-bhopal,chartered-bike-bhopal-bhopal,23.2467,77.411,61,230,142,Sun Jun  3 18:03:56 2018
+Rotterdam,IN,/v2/networks/nextbike-rotterdam,nextbike-rotterdam,51.9224,4.47265,0,0,0,Sun Jun  3 18:03:56 2018
+Stans,CH,/v2/networks/nextbike-stans,nextbike-stans,46.9593,8.36836,20,0,38,Sun Jun  3 18:03:56 2018
+Worms,DE,/v2/networks/vrn-worms,vrn-worms,49.6394,8.34618,7,31,37,Sun Jun  3 18:03:56 2018
+Victoria,CA,/v2/networks/nextbike-victoria,nextbike-victoria,48.4298,-123.361,5,8,10,Sun Jun  3 18:03:56 2018
+Maastricht,NL,/v2/networks/nederland-maastricht,nederland-maastricht,50.8514,5.69129,9,20,81,Sun Jun  3 18:03:56 2018
+Stansstad,CH,/v2/networks/nextbike-stansstad,nextbike-stansstad,46.9801,8.34098,10,0,30,Sun Jun  3 18:03:56 2018
+Kuwait,KW,/v2/networks/byky-bikes-kuwait,byky-bikes-kuwait,29.3632,47.487,1,2,10,Sun Jun  3 18:03:56 2018
+Horw,CH,/v2/networks/nextbike-horw,nextbike-horw,47.0188,8.30828,16,0,55,Sun Jun  3 18:03:56 2018
+Bürstadt,DE,/v2/networks/vrn-burstadt,vrn-burstadt,49.6461,8.44917,4,26,6,Sun Jun  3 18:03:56 2018
+Groß Enzersdorf,AT,/v2/networks/nextbike-gross-enzersdorf,nextbike-gross-enzersdorf,48.1986,16.5496,3,0,13,Sun Jun  3 18:03:56 2018
+Klagenfurt,AT,/v2/networks/nextbike-klagenfurt,nextbike-klagenfurt,46.6335,14.3085,32,131,175,Sun Jun  3 18:03:56 2018
+Kaiserslautern,DE,/v2/networks/vrn-kaiserslautern,vrn-kaiserslautern,49.4413,7.75566,21,79,85,Sun Jun  3 18:03:56 2018
+Amstetten,AT,/v2/networks/nextbike-amstetten,nextbike-amstetten,48.1218,14.8774,1,0,2,Sun Jun  3 18:03:56 2018
+Velika Gorica,HR,/v2/networks/grad-velika-gorica-velika-gorica,grad-velika-gorica-velika-gorica,45.7161,16.0683,2,9,8,Sun Jun  3 18:03:56 2018
+Sisak,HR,/v2/networks/grad-sisak-sisak,grad-sisak-sisak,45.4875,16.3753,2,2,8,Sun Jun  3 18:03:56 2018
+Salzburg ,AT,/v2/networks/nextbike-salzburg,nextbike-salzburg,47.8014,13.0458,1,0,0,Sun Jun  3 18:03:56 2018
+Metković,HR,/v2/networks/grad-metkovic-metkovic,grad-metkovic-metkovic,43.0654,17.642,2,1,9,Sun Jun  3 18:03:56 2018
+Tuzla,BA,/v2/networks/nextbike-tuzla,nextbike-tuzla,44.5392,18.675,3,10,13,Sun Jun  3 18:03:56 2018
+Panama,IN,/v2/networks/nextbike-panama,nextbike-panama,8.95284,-79.5369,1,0,1,Sun Jun  3 18:03:56 2018
+Poreč,HR,/v2/networks/porec-bike-share-porec,porec-bike-share-porec,45.2292,13.6035,5,21,25,Sun Jun  3 18:03:56 2018
+Dordrecht,NL,/v2/networks/nextbike-dordrecht,nextbike-dordrecht,51.817158,4.648161,8,19,35,Sun Jun  3 18:03:56 2018
+Trondheim,NO,/v2/networks/trondheim-bysykkel,trondheim-bysykkel,63.4307238,10.3936781,23,529,32,Sun Jun  3 18:03:56 2018
+Nitra,SK,/v2/networks/arriva-nitra,arriva-nitra,48.3088,18.0783,7,65,25,Sun Jun  3 18:03:56 2018
+Oslo,NO,/v2/networks/oslo-bysykkel,oslo-bysykkel,59.913869,10.752245,213,3214,1010,Sun Jun  3 18:03:56 2018
+Bergen,NO,/v2/networks/bergen-bysykkel,bergen-bysykkel,60.391263,5.322054,29,460,34,Sun Jun  3 18:03:56 2018
+Bærum,NO,/v2/networks/baerum-bysykkel,baerum-bysykkel,59.89455,10.546343,13,150,71,Sun Jun  3 18:03:56 2018
+Budapest,HU,/v2/networks/bubi,bubi,47.497912,19.040235,126,1310,1389,Sun Jun  3 18:03:56 2018
+Goiânia,BR,/v2/networks/debikegoiania,debikegoiania,-16.670492,-49.259535,16,98,96,Sun Jun  3 18:03:56 2018
+Belém,BR,/v2/networks/bikebelem,bikebelem,-1.4600794,-48.490865,11,70,62,Sun Jun  3 18:03:56 2018
+Bratislava,SK,/v2/networks/whitebikes,whitebikes,48.149424,17.113922,63,0,83,Sun Jun  3 18:03:56 2018
+Las Condes,CL,/v2/networks/bicilascondes,bicilascondes,-33.401944,-70.55,89,1200,477,Sun Jun  3 18:03:56 2018
+Rennes,FR,/v2/networks/le-velo-star,le-velo-star,48.114167,-1.680833,83,868,714,Sun Jun  3 18:03:56 2018
+Wageningen,NL,/v2/networks/cykl,cykl,51.974,5.6671,25,0,20,Sun Jun  3 18:03:56 2018
+Cardiff,GB,/v2/networks/nextbike-cardiff,nextbike-cardiff,51.4822,-3.18089,21,107,68,Sun Jun  3 18:03:56 2018
+"Montréal, QC",CA,/v2/networks/bixi-montreal,bixi-montreal,45.508693,-73.553928,545,6785,4696,Sun Jun  3 18:03:56 2018
+Recife,BR,/v2/networks/bikerecife,bikerecife,-8.047129,-34.873437,80,781,658,Sun Jun  3 18:03:56 2018
+São Paulo,BR,/v2/networks/bikesampa,bikesampa,-23.55,-46.6333,101,522,1191,Sun Jun  3 18:03:56 2018
+Rio de Janeiro,BR,/v2/networks/bikerio,bikerio,-22.904315,-43.184776,138,1328,998,Sun Jun  3 18:03:56 2018
+Salvador,BR,/v2/networks/bikesalvador,bikesalvador,-12.973959,-38.508171,29,236,178,Sun Jun  3 18:03:56 2018
+Porto Alegre,BR,/v2/networks/bikepoa,bikepoa,-30.033079,-51.23654,41,451,275,Sun Jun  3 18:03:56 2018
+Guadalajara,MX,/v2/networks/mibici-guadalajara,mibici-guadalajara,20.6737883,-103.3704325,234,2074,1346,Sun Jun  3 18:03:56 2018
